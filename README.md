@@ -74,9 +74,4 @@ All charts are generated using **Matplotlib** and **Seaborn**.
 - NumPy
 - Jupyter Notebook
 
-## 🚀 Setup
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/stock-analysis-project.git
-   cd stock-analysis-project
